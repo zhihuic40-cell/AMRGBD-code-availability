@@ -1,0 +1,17 @@
+location_id,age_group_id,sex_id,year_id,infectious_syndrome,pathogen,resistance_class,counterfactual,CR,ALL
+Global,22,3,1990,0,all,carbapenem,0,619478.1835,4777002.855
+"Southeast Asia, East Asia, and Oceania",22,3,1990,0,all,carbapenem,0,139924.2913,1112451.727
+"Central Europe, Eastern Europe, and Central Asia",22,3,1990,0,all,carbapenem,0,46138.44541,285163.8457
+High-income,22,3,1990,0,all,carbapenem,0,70391.00909,476965.9829
+Latin America and Caribbean,22,3,1990,0,all,carbapenem,0,40120.97714,246949.5503
+North Africa and Middle East,22,3,1990,0,all,carbapenem,0,36316.90554,264466.1472
+South Asia,22,3,1990,0,all,carbapenem,0,212868.7653,1399878.968
+Sub-Saharan Africa,22,3,1990,0,all,carbapenem,0,73630.62724,990138.649
+Global,22,3,2021,0,all,carbapenem,0,1033284.476,4707657.836
+"Southeast Asia, East Asia, and Oceania",22,3,2021,0,all,carbapenem,0,234548.9193,1152200.333
+"Central Europe, Eastern Europe, and Central Asia",22,3,2021,0,all,carbapenem,0,58969.43006,264917.1725
+High-income,22,3,2021,0,all,carbapenem,0,69873.52751,553462.9646
+Latin America and Caribbean,22,3,2021,0,all,carbapenem,0,80358.16824,322219.0792
+North Africa and Middle East,22,3,2021,0,all,carbapenem,0,59584.01247,226242.1817
+South Asia,22,3,2021,0,all,carbapenem,0,404715.0348,1264638.355
+Sub-Saharan Africa,22,3,2021,0,all,carbapenem,0,125093.4662,923373.1248
