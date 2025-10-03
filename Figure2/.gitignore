@@ -1,0 +1,54 @@
+# R-specific files
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# R session data
+.RData
+.Ruserdata
+
+# Temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Output files (if you don't want to track them)
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.svg
+
+# Export directory (if using export package)
+exports/
+output/
+figures/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Large data files (uncomment if needed)
+# data/*.csv
+# *.shp
+# *.dbf
+# *.shx
+
+# Backup files
+*.bak
+*_backup.*
+

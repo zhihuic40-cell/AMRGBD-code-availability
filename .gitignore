@@ -1,0 +1,33 @@
+# R files
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Temporary files
+*~
+*.tmp
+*.bak
+*.swp
+
+# Output files (if you want to exclude generated plots)
+# Uncomment if you don't want to track output files
+# *.pdf
+# *.png
+# *.jpg
+# *.tif
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+
+# Large data files (uncomment if needed)
+# *.csv
+# *.xlsx
+# *.rds
+
