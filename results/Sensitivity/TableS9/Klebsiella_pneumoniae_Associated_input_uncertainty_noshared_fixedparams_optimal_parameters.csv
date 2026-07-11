@@ -1,0 +1,13 @@
+"gf","secondDiff","period_include","cohort_include","overdis_include","age_model","period_model","cohort_model","prior_type","param_strength","rmse","mae","n_obs","param_combination"
+5,FALSE,TRUE,TRUE,TRUE,"rw2","rw2","rw2","loggamma","default",0.129220579611393,0.107499071073642,11,1
+5,FALSE,FALSE,TRUE,TRUE,"rw2","rw2","rw2","loggamma","default",0.501282206971276,0.482630009647188,11,2
+5,FALSE,TRUE,FALSE,TRUE,"rw2","rw2","rw2","loggamma","default",0.236103920789226,0.199138716644756,11,3
+5,FALSE,TRUE,TRUE,FALSE,"rw2","rw2","rw2","loggamma","default",0.138346408682292,0.112191345087823,11,4
+5,FALSE,FALSE,TRUE,FALSE,"rw2","rw2","rw2","loggamma","default",0.400438641439957,0.382806997638219,11,5
+5,FALSE,TRUE,FALSE,FALSE,"rw2","rw2","rw2","loggamma","default",0.140286189340979,0.115092039055212,11,6
+5,FALSE,TRUE,TRUE,TRUE,"rw2","rw2","rw2","loggamma","conservative",0.13047224421449,0.106812825660149,11,7
+5,FALSE,FALSE,TRUE,TRUE,"rw2","rw2","rw2","loggamma","conservative",0.511749497863258,0.492989675477997,11,8
+5,FALSE,TRUE,FALSE,TRUE,"rw2","rw2","rw2","loggamma","conservative",0.236539386609303,0.199892179505255,11,9
+5,FALSE,TRUE,TRUE,FALSE,"rw2","rw2","rw2","loggamma","conservative",0.138463110237921,0.112282074605604,11,10
+5,FALSE,FALSE,TRUE,FALSE,"rw2","rw2","rw2","loggamma","conservative",0.400469488796742,0.382846884807705,11,11
+5,FALSE,TRUE,FALSE,FALSE,"rw2","rw2","rw2","loggamma","conservative",0.140333083251215,0.115134632218714,11,12

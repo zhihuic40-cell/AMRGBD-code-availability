@@ -1,0 +1,75 @@
+#!/usr/bin/env bash
+set -ex
+
+# TEMPORARY WORKAROUND for Code Ocean cache issue
+# If environment rebuild doesn't work, use this version
+# Rename to "run" to use it
+
+echo "========================================="
+echo "Code Ocean Run (with package install)"
+echo "========================================="
+echo ""
+
+echo "WARNING: Installing packages at runtime (not ideal)"
+echo "This should be done in Dockerfile/environment build"
+echo ""
+
+# Install critical packages if missing
+echo "Checking and installing missing packages..."
+Rscript -e "
+  options(repos = c(CRAN = 'https://cloud.r-project.org/'))
+
+  # Check and install function
+  ensure_pkg <- function(pkg, repo = NULL) {
+    if (!requireNamespace(pkg, quietly = TRUE)) {
+      cat(sprintf('Installing %s...\n', pkg))
+      if (is.null(repo)) {
+        install.packages(pkg, dependencies = TRUE)
+      } else {
+        install.packages(pkg, repos = repo, dependencies = TRUE)
+      }
+    } else {
+      cat(sprintf('✓ %s already installed\n', pkg))
+    }
+  }
+
+  # Critical packages
+  cat('Installing critical packages...\n')
+  for (pkg in c('tidyverse', 'dplyr', 'readr', 'readxl', 'ggplot2',
+                'patchwork', 'sf', 'rnaturalearth', 'rnaturalearthdata',
+                'here', 'forcats', 'scales', 'stringr')) {
+    ensure_pkg(pkg)
+  }
+
+  # BAPC
+  cat('Installing BAPC...\n')
+  ensure_pkg('zoo')
+  ensure_pkg('survival')
+  ensure_pkg('Epi')
+  tryCatch(
+    ensure_pkg('BAPC', 'http://R-Forge.R-project.org'),
+    error = function(e) cat('BAPC failed\n')
+  )
+
+  # INLA
+  cat('Installing INLA...\n')
+  options(timeout = 10000000)
+  tryCatch(
+    ensure_pkg('INLA', 'https://inla.r-inla-download.org/R/stable'),
+    error = function(e) cat('INLA failed\n')
+  )
+
+  cat('\nPackage installation complete\n')
+"
+
+echo ""
+echo "Running analyses..."
+echo "-----------------------------------------"
+
+# Run all analyses (packages now installed)
+Rscript code/run_all.R "$@"
+
+echo ""
+echo "========================================="
+echo "Run Complete!"
+echo "========================================="

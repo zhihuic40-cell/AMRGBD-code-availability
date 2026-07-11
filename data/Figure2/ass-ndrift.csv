@@ -1,0 +1,205 @@
+location_name,Age,Sex,Measure,Metric,Pathogen,Antibiotic_class,Counterfactual,Infectious_syndrome,Year,val,Upper,Lower
+Armenia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.344164365,1.341911771,-0.643759861
+Azerbaijan,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.016496948,-0.54549013,-1.485273124
+Georgia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.819783243,2.563399055,1.081558872
+Kazakhstan,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.986416061,-0.637050291,-1.334553441
+Kyrgyzstan,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.385235054,0.249540143,-1.015990885
+Mongolia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.619183639,-0.61939846,-2.608910815
+Tajikistan,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.08709141,-0.567243061,-1.604221919
+Turkmenistan,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.369168428,1.020608947,-0.278071219
+Albania,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.419870916,-0.419589749,-2.410104299
+Uzbekistan,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.121334694,0.194611534,-0.43628464
+Bulgaria,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.821832844,-0.171242977,-1.468182779
+Bosnia and Herzegovina,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-2.681148466,-1.804600727,-3.549871643
+Czechia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-3.931483278,-3.153907449,-4.702815962
+Hungary,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-2.439028663,-1.74899301,-3.124218062
+Croatia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-2.774386047,-1.875038546,-3.665490733
+Montenegro,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.483531456,3.811045918,-2.737324294
+North Macedonia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.485765553,0.830278921,-1.784632914
+Poland,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-2.098073433,-1.78850218,-2.40666889
+Romania,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.776319236,-0.44275176,-1.108769091
+Slovakia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.31896969,-0.419013175,-2.210792908
+Slovenia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-5.175471304,-2.790507538,-7.501921729
+Serbia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-2.25004368,-1.7266927,-2.770607573
+Belarus,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.266619041,0.244610906,-0.775241804
+Estonia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-3.407866774,-1.219126344,-5.548110116
+Latvia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.791804117,-0.460945566,-3.104868802
+Republic of Moldova,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.895807901,-0.23582886,-1.551420923
+Russian Federation,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.817629677,1.062806173,0.573047973
+Lithuania,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.45388868,-0.374763764,-2.521324683
+Ukraine,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.221593516,0.450531995,-0.006823186
+Australia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.940790403,-1.166924411,-2.708597002
+New Zealand,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-2.27313562,0.381905878,-4.857952855
+Brunei Darussalam,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.880058376,2.236165062,-3.901297339
+Japan,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-5.704685565,-5.333766223,-6.074151578
+Republic of Korea,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-4.2769898,-3.933219681,-4.619529756
+Singapore,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-4.574179606,-3.545821177,-5.591574061
+Canada,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.399227113,0.230762626,-1.025257119
+United States of America,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.664778105,-0.515450669,-0.813881398
+Greenland,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.25293037,5.973907357,-7.986937504
+Chile,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-2.188352722,-1.739642591,-2.635013799
+Uruguay,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.729290477,2.734542404,0.733874887
+Argentina,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.006794069,1.23780951,0.776305784
+Andorra,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.553991432,6.538588425,-7.174397874
+Austria,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-2.184708818,-0.911483662,-3.441573832
+Belgium,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-2.385897503,-1.392573092,-3.369215636
+Cyprus,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-2.557777127,0.22588077,-5.264122145
+Denmark,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-3.241852804,-0.854424236,-5.571792017
+Finland,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.266130436,1.283375769,-3.751460443
+France,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-4.677072651,-4.282769001,-5.069751982
+Germany,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.919656472,-1.526041354,-2.311698252
+Greece,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.420689813,1.13827378,-0.291802839
+Iceland,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.675864335,4.391963829,-7.390997356
+Ireland,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-4.762019103,-2.565704931,-6.908825083
+Israel,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-2.70894729,-1.84291211,-3.567341484
+Italy,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.553097398,-1.206450046,-1.898528431
+Luxembourg,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.743108848,3.158966872,-6.412239753
+Malta,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.93471388,3.441288487,-5.125592907
+Monaco,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.98909991,6.060501371,-7.570130163
+Netherlands,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-2.241268665,-0.97605535,-3.49031655
+Norway,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-3.215197457,-0.28649635,-6.05787922
+Portugal,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-3.371615603,-2.703952392,-4.034697188
+San Marino,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.954239993,6.220867504,-7.644676552
+Spain,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-2.142946601,-1.726526888,-2.557601796
+Sweden,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.331052852,0.342331814,-2.97653089
+Switzerland,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-2.14315852,-0.309343522,-3.943240391
+United Kingdom,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.787310194,-0.32381737,-1.248647784
+Bolivia (Plurinational State of),Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.659582586,-0.085992674,-1.229879613
+Ecuador,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.763863567,2.20585038,1.323788115
+Peru,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.986367191,-0.709483159,-1.262479098
+Bahamas,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.016484564,2.137774055,-2.060748072
+Antigua and Barbuda,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.265614256,3.920633994,-6.193038344
+Barbados,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.893961535,2.309627037,-3.997237165
+Belize,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,2.448951976,5.945135705,-0.93185788
+Bermuda,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.68614425,4.396345747,-7.414247469
+Cuba,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.456006146,-0.023445021,-0.886695742
+Dominica,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.193363046,5.381872392,-4.739688425
+Grenada,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.002365372,4.625938237,-4.425928219
+Guyana,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.353554126,1.719063538,-0.993624249
+Dominican Republic,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.32235076,1.999185201,0.650007579
+Haiti,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.91505964,1.278855374,0.552570668
+Jamaica,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.622662235,2.855315865,0.404781152
+Saint Kitts and Nevis,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.26639001,5.282022681,-5.522398711
+Saint Lucia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.787158319,3.004652901,-4.439385239
+Saint Vincent and the Grenadines,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.044056387,4.293822068,-4.201510066
+Puerto Rico,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.888408147,-1.162133239,-2.609346283
+Suriname,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.472636193,2.251956695,-1.275721758
+Trinidad and Tobago,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.130406724,0.96916949,-1.218008314
+United States Virgin Islands,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.255289754,3.671482813,-5.947927656
+Colombia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.703420651,-0.466932862,-0.939346552
+Costa Rica,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.468787575,-0.340836416,-2.583972483
+El Salvador,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.794690084,1.348898874,0.243511887
+Guatemala,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.401428785,-0.086166018,-0.715696788
+Honduras,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.671183995,1.269011744,0.07688544
+Mexico,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.0653238,0.203375057,-0.072537262
+Nicaragua,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.292532089,0.594854274,-1.172090471
+Panama,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.628843915,0.264571464,-1.514298446
+Venezuela (Bolivarian Republic of),Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.190514427,0.464400972,-0.082625448
+Brazil,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.408334576,0.522563601,0.294235356
+Paraguay,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.170099332,1.867368018,0.477603358
+Afghanistan,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.639540932,2.102100683,1.179076745
+Algeria,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.04678775,0.355551782,-0.447514246
+Bahrain,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.499402828,0.242895264,-3.211418448
+Egypt,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.148450122,1.348037376,0.94925592
+Iran (Islamic Republic of),Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.747983333,0.958467548,0.537937948
+Iraq,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.595099218,1.031523126,0.160560522
+Jordan,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.231518213,-0.452876137,-2.004069873
+Kuwait,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.96619753,-0.692147943,-3.223901961
+Lebanon,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.629394527,-0.847317522,-2.405302818
+Morocco,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.01912515,0.324565573,-0.285385353
+Libya,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,2.202990485,2.808428051,1.601118333
+Oman,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.071343653,1.171220618,-1.298647004
+Palestine,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.847314521,0.142622865,-1.827466104
+Qatar,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-2.289326321,0.04676952,-4.570874236
+Saudi Arabia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.263233047,1.572481314,0.95492632
+Sudan,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.560072206,0.808859964,0.311898435
+Syrian Arab Republic,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,3.446017374,4.518766015,2.384279097
+Tunisia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.18103642,1.796536996,0.569257394
+Turkey,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.298911383,-1.076320114,-1.521001792
+Yemen,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.114822014,1.799744004,0.43450827
+United Arab Emirates,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.642260003,0.39947431,-1.673185392
+Bangladesh,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.300778241,-0.110374109,-0.490819435
+Bhutan,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.011772625,1.729824465,-1.677264105
+India,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.686373444,1.857849058,1.515186507
+Nepal,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.203729053,0.454083494,-0.046001448
+Pakistan,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.292674986,1.40045611,1.185008425
+China,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.07466843,0.081641458,-0.230734189
+Democratic People's Republic of Korea,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.164264538,1.564564798,0.765541996
+Taiwan (Province of China),Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.404273325,0.046838246,-0.853350833
+American Samoa,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,2.035149941,7.673599322,-3.308035684
+Cook Islands,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,,,
+Fiji,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.108305029,1.338183507,-1.106647179
+Guam,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.580005498,4.246431731,-5.182986672
+Kiribati,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.067587973,5.319394996,-3.012571056
+Marshall Islands,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,2.310231373,8.758015158,-3.755291706
+Micronesia (Federated States of),Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.015513393,4.233555204,-4.031836008
+Nauru,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,,,
+Niue,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,,,
+Northern Mariana Islands,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.941663119,8.391525814,-4.124399011
+Palau,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.342269725,5.878029671,-8.070184406
+Papua New Guinea,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.570945304,1.339324151,-0.191607511
+Samoa,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,2.030323507,5.777778938,-1.584368481
+Solomon Islands,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.98663661,2.746150647,-0.742745987
+Tokelau,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,,,
+Tonga,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.691376504,5.455417695,-3.857444939
+Tuvalu,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,,,
+Vanuatu,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.861174338,4.965565724,-1.151403644
+Cambodia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.680462583,1.022313474,0.339768486
+Indonesia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.138112715,0.22445248,0.05184733
+Lao People's Democratic Republic,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.022643143,-0.098386483,-1.938348887
+Malaysia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.76085641,1.063689934,0.458930315
+Maldives,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.936130429,3.147910028,-4.858467306
+Myanmar,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.232561493,-1.092039548,-1.372883794
+Philippines,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,2.994954239,3.185780255,2.804481127
+Mauritius,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.305477553,1.667128377,-1.037936374
+Seychelles,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.476956733,6.240757489,-3.073236757
+Sri Lanka,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.672870214,-0.379595434,-0.965281616
+Thailand,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.827249054,0.988291651,0.666463266
+Timor-Leste,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.217100367,1.860606688,-1.399888215
+Viet Nam,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.35887979,1.527217206,1.190821486
+Angola,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.91945093,1.365946358,0.47492222
+Central African Republic,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,2.680427944,3.234147513,2.129678373
+Congo,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.299542529,0.438735706,-1.032394025
+Democratic Republic of the Congo,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.92896022,2.149467168,1.708929274
+Equatorial Guinea,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.4994468,0.061140687,-3.035694835
+Gabon,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.148278847,2.35270075,-0.041970181
+Burundi,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.625954837,-1.057817406,-2.190829958
+Comoros,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.097112896,1.634203113,-1.798936322
+Djibouti,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.70518607,0.685691257,-2.076849746
+Eritrea,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-1.230355194,-0.613660453,-1.843223328
+Ethiopia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-2.092710777,-1.914596675,-2.27050144
+Kenya,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.91783779,1.146374755,0.689817198
+Madagascar,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.281728996,0.040401471,-0.602822201
+Malawi,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.392294135,1.785441258,1.000665546
+Mozambique,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,2.072241534,2.443476811,1.702351542
+Rwanda,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-6.682030753,-5.798615708,-7.557161183
+Somalia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.422934952,0.822344029,0.02510814
+South Sudan,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.186371404,0.629069606,-0.254379233
+Uganda,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.74486329,2.201467692,1.290298854
+United Republic of Tanzania,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.839474335,-0.608151746,-1.070258548
+Zambia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.351316458,0.752030199,-0.047803554
+Botswana,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.937420812,0.088024058,-1.952359559
+Eswatini,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,3.502152189,4.993353576,2.032130063
+Lesotho,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,4.542341938,5.531500573,3.562454798
+Namibia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.397036801,1.109741496,-1.881360478
+South Africa,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.656886172,1.943424754,1.371152981
+Zimbabwe,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,3.475688513,3.84374753,3.108934028
+Benin,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.079935418,1.627217909,0.53560015
+Burkina Faso,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.504563848,1.993083722,1.018383855
+Cabo Verde,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,3.268027607,7.528784189,-0.823899328
+Chad,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.125487715,1.699026152,0.555183787
+C?te d'Ivoire,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,2.135,2.62,1.651
+Cameroon,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.078385892,0.510160552,-0.351533938
+Gambia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.130419093,1.346028586,-1.585357319
+Ghana,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,3.458979038,3.946008527,2.974231481
+Guinea,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.825603197,1.353565864,0.300390749
+Guinea-Bissau,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.65464133,2.003550692,-0.676429863
+Liberia,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.060806113,2.21280655,-0.078210579
+Mali,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.653653038,2.051236268,1.25761876
+Mauritania,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.890091466,2.913937469,0.876431261
+Niger,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.106235781,0.649608884,-0.434203835
+Nigeria,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.072067365,0.213676873,-0.069342038
+Sao Tome and Principe,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.12821396,6.912038529,-4.342712015
+Senegal,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,1.624196477,2.14540738,1.105645124
+Sierra Leone,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,-0.007056662,0.739525482,-0.748105873
+Togo,Age-standardized,3,Deaths,Rate (per 100k),All pathogens,Carbapenems,Associated,All infectious syndromes,2021,0.571777972,1.380787879,-0.230776107

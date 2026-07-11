@@ -1,0 +1,56 @@
+# R generated files
+*.Rhistory
+*.RData
+*.Rproj.user
+.Rproj.user/
+
+# Output files (generated at runtime, not needed in repository)
+*.pdf
+*.png
+*.jpeg
+*.jpg
+*.tiff
+
+# Result CSV files (not source data)
+*_asr_differences*.csv
+*_optimal_parameters*.csv
+*_prediction*.csv
+
+# Keep generated result outputs for code availability
+!results/
+!results/**
+
+# But keep original data CSV files
+!*/data/*.csv
+!*/data/**/*.csv
+!Figure6/data.csv
+!Figure6/GBD*.csv
+!Figure6/IHME*.CSV
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+
+# PowerPoint output files
+*.pptx
+
+# Log files
+*.log
+
+# RStudio files
+.Rproj.user
+
+# Keep AMRGBD.Rproj for users (do NOT ignore *.Rproj)
+
+# Code Ocean files (not needed on GitHub)
+postInstall
+output*
+
+# System files
+.DS_Store
+.Rhistory
+.RData

@@ -1,0 +1,113 @@
+location_id,age_group_id,sex_id,year_id,infectious_syndrome,pathogen,resistance_class,counterfactual,deathcounts_mean,std_dev,deathcounts_upper,deathcounts_lower
+Global,22,3,1990,0,Escherichia coli,carbapenem,1,11917.06138,4408.857447,20558.42198,3275.700788
+"Southeast Asia, East Asia, and Oceania",22,3,1990,0,Escherichia coli,carbapenem,1,1834.838917,635.9337071,3081.268983,588.4088515
+"Central Europe, Eastern Europe, and Central Asia",22,3,1990,0,Escherichia coli,carbapenem,1,694.8305709,322.4837794,1326.898778,62.76236326
+High-income,22,3,1990,0,Escherichia coli,carbapenem,1,887.4552669,322.7925548,1520.128674,254.7818594
+Latin America and Caribbean,22,3,1990,0,Escherichia coli,carbapenem,1,473.0934102,168.3190257,802.9987006,143.1881197
+North Africa and Middle East,22,3,1990,0,Escherichia coli,carbapenem,1,592.4839709,243.7593861,1070.252368,114.7155743
+South Asia,22,3,1990,0,Escherichia coli,carbapenem,1,4386.796717,1608.950535,7540.339766,1233.253668
+Sub-Saharan Africa,22,3,1990,0,Escherichia coli,carbapenem,1,3043.906966,1198.888921,5393.729252,694.0846798
+Global,22,3,1990,0,Pseudomonas aeruginosa,carbapenem,1,30234.15203,6250.766449,42485.65427,17982.64979
+"Southeast Asia, East Asia, and Oceania",22,3,1990,0,Pseudomonas aeruginosa,carbapenem,1,8376.383637,1813.250875,11930.35535,4822.411921
+"Central Europe, Eastern Europe, and Central Asia",22,3,1990,0,Pseudomonas aeruginosa,carbapenem,1,2999.210081,579.4440288,4134.920377,1863.499784
+High-income,22,3,1990,0,Pseudomonas aeruginosa,carbapenem,1,5569.271366,1019.853866,7568.184943,3570.357789
+Latin America and Caribbean,22,3,1990,0,Pseudomonas aeruginosa,carbapenem,1,2100.13541,406.6084804,2897.088031,1303.182788
+North Africa and Middle East,22,3,1990,0,Pseudomonas aeruginosa,carbapenem,1,1767.171381,369.8754376,2492.127239,1042.215523
+South Asia,22,3,1990,0,Pseudomonas aeruginosa,carbapenem,1,7169.49074,1623.598465,10351.74373,3987.23775
+Sub-Saharan Africa,22,3,1990,0,Pseudomonas aeruginosa,carbapenem,1,2253.30164,579.5975609,3389.31286,1117.290421
+Global,22,3,1990,0,Klebsiella pneumoniae,carbapenem,1,18116.95429,2455.399648,22929.5376,13304.37098
+"Southeast Asia, East Asia, and Oceania",22,3,1990,0,Klebsiella pneumoniae,carbapenem,1,2597.637316,379.3004169,3341.066133,1854.208499
+"Central Europe, Eastern Europe, and Central Asia",22,3,1990,0,Klebsiella pneumoniae,carbapenem,1,869.7299314,122.6286475,1110.082081,629.3777823
+High-income,22,3,1990,0,Klebsiella pneumoniae,carbapenem,1,2199.075158,271.1816412,2730.591174,1667.559141
+Latin America and Caribbean,22,3,1990,0,Klebsiella pneumoniae,carbapenem,1,1017.652137,136.4935939,1285.179581,750.124693
+North Africa and Middle East,22,3,1990,0,Klebsiella pneumoniae,carbapenem,1,868.2297072,121.1549561,1105.693421,630.7659933
+South Asia,22,3,1990,0,Klebsiella pneumoniae,carbapenem,1,7197.824258,1016.917804,9190.983154,5204.665361
+Sub-Saharan Africa,22,3,1990,0,Klebsiella pneumoniae,carbapenem,1,3361.383285,464.4033996,4271.613948,2451.152622
+Global,22,3,1990,0,Enterobacter spp.,carbapenem,1,9655.721858,1206.169603,12019.81428,7291.629437
+"Southeast Asia, East Asia, and Oceania",22,3,1990,0,Enterobacter spp.,carbapenem,1,4043.162733,489.3990465,5002.384864,3083.940602
+"Central Europe, Eastern Europe, and Central Asia",22,3,1990,0,Enterobacter spp.,carbapenem,1,624.6003433,96.17075094,813.0950152,436.1056715
+High-income,22,3,1990,0,Enterobacter spp.,carbapenem,1,1156.181153,139.1903382,1428.994216,883.3680902
+Latin America and Caribbean,22,3,1990,0,Enterobacter spp.,carbapenem,1,386.8326729,49.12859383,483.1247168,290.540629
+North Africa and Middle East,22,3,1990,0,Enterobacter spp.,carbapenem,1,325.8954985,45.58943799,415.250797,236.5402
+South Asia,22,3,1990,0,Enterobacter spp.,carbapenem,1,1486.463515,201.5055339,1881.414361,1091.512668
+Sub-Saharan Africa,22,3,1990,0,Enterobacter spp.,carbapenem,1,1630.778491,237.9535424,2097.167434,1164.389548
+Global,22,3,1990,0,Serratia spp.,carbapenem,1,3193.533754,393.1126039,3964.034458,2423.033051
+"Southeast Asia, East Asia, and Oceania",22,3,1990,0,Serratia spp.,carbapenem,1,704.3330685,92.74886045,886.1208349,522.545302
+"Central Europe, Eastern Europe, and Central Asia",22,3,1990,0,Serratia spp.,carbapenem,1,273.1441806,33.40277295,338.6136156,207.6747457
+High-income,22,3,1990,0,Serratia spp.,carbapenem,1,427.3510396,46.48255409,518.4568456,336.2452336
+Latin America and Caribbean,22,3,1990,0,Serratia spp.,carbapenem,1,181.7332792,21.94729125,224.74997,138.7165883
+North Africa and Middle East,22,3,1990,0,Serratia spp.,carbapenem,1,242.8711393,30.14954412,301.9642458,183.7780328
+South Asia,22,3,1990,0,Serratia spp.,carbapenem,1,678.6327313,94.34321,863.5454229,493.7200397
+Sub-Saharan Africa,22,3,1990,0,Serratia spp.,carbapenem,1,685.3175318,88.89808563,859.5577797,511.077284
+Global,22,3,1990,0,Acinetobacter baumannii,carbapenem,1,51316.96281,8807.308484,68579.28744,34054.63818
+"Southeast Asia, East Asia, and Oceania",22,3,1990,0,Acinetobacter baumannii,carbapenem,1,14055.18026,2624.393443,19198.99141,8911.369109
+"Central Europe, Eastern Europe, and Central Asia",22,3,1990,0,Acinetobacter baumannii,carbapenem,1,3771.212286,550.998436,4851.16922,2691.255351
+High-income,22,3,1990,0,Acinetobacter baumannii,carbapenem,1,4917.272768,900.4752058,6682.204172,3152.341365
+Latin America and Caribbean,22,3,1990,0,Acinetobacter baumannii,carbapenem,1,3927.140271,591.201954,5085.896101,2768.384441
+North Africa and Middle East,22,3,1990,0,Acinetobacter baumannii,carbapenem,1,3540.494826,528.0563992,4575.485368,2505.504283
+South Asia,22,3,1990,0,Acinetobacter baumannii,carbapenem,1,16416.24418,2844.822263,21992.09582,10840.39255
+Sub-Saharan Africa,22,3,1990,0,Acinetobacter baumannii,carbapenem,1,4683.811852,962.2095115,6569.742494,2797.881209
+Global,22,3,1990,0,Citrobacter spp.,carbapenem,1,2244.415263,586.6827607,3394.313474,1094.517052
+"Southeast Asia, East Asia, and Oceania",22,3,1990,0,Citrobacter spp.,carbapenem,1,485.1537566,135.5910527,750.9122199,219.3952934
+"Central Europe, Eastern Europe, and Central Asia",22,3,1990,0,Citrobacter spp.,carbapenem,1,127.4693743,34.37614583,194.8466201,60.0921285
+High-income,22,3,1990,0,Citrobacter spp.,carbapenem,1,143.5522302,39.61159488,221.1909562,65.91350423
+Latin America and Caribbean,22,3,1990,0,Citrobacter spp.,carbapenem,1,78.13555131,21.62648147,120.523455,35.74764764
+North Africa and Middle East,22,3,1990,0,Citrobacter spp.,carbapenem,1,88.15946054,23.97921041,135.1587129,41.16020814
+South Asia,22,3,1990,0,Citrobacter spp.,carbapenem,1,1059.801579,272.3622307,1593.631551,525.9716067
+Sub-Saharan Africa,22,3,1990,0,Citrobacter spp.,carbapenem,1,261.3829897,70.85114589,400.2512356,122.5147437
+Global,22,3,2021,0,Escherichia coli,carbapenem,1,27931.531,2710.607902,33244.32248,22618.73951
+"Southeast Asia, East Asia, and Oceania",22,3,2021,0,Escherichia coli,carbapenem,1,4157.259449,449.5107057,5038.300432,3276.218466
+"Central Europe, Eastern Europe, and Central Asia",22,3,2021,0,Escherichia coli,carbapenem,1,845.1718348,91.38734959,1024.29104,666.0526296
+High-income,22,3,2021,0,Escherichia coli,carbapenem,1,1349.107876,128.0238609,1600.034643,1098.181108
+Latin America and Caribbean,22,3,2021,0,Escherichia coli,carbapenem,1,985.2077616,130.196853,1240.393594,730.0219298
+North Africa and Middle East,22,3,2021,0,Escherichia coli,carbapenem,1,1328.62643,212.2552137,1744.646649,912.6062112
+South Asia,22,3,2021,0,Escherichia coli,carbapenem,1,15321.04674,1597.523914,18452.19362,12189.89987
+Sub-Saharan Africa,22,3,2021,0,Escherichia coli,carbapenem,1,3932.518094,959.4413001,5813.023042,2052.013146
+Global,22,3,2021,0,Pseudomonas aeruginosa,carbapenem,1,45624.01685,7168.690101,59674.64945,31573.38425
+"Southeast Asia, East Asia, and Oceania",22,3,2021,0,Pseudomonas aeruginosa,carbapenem,1,10969.66492,1782.648194,14463.65538,7475.674459
+"Central Europe, Eastern Europe, and Central Asia",22,3,2021,0,Pseudomonas aeruginosa,carbapenem,1,3679.94331,573.9431381,4804.871861,2555.01476
+High-income,22,3,2021,0,Pseudomonas aeruginosa,carbapenem,1,6541.658685,975.7561075,8454.140656,4629.176714
+Latin America and Caribbean,22,3,2021,0,Pseudomonas aeruginosa,carbapenem,1,4872.029972,724.1001485,6291.266263,3452.793681
+North Africa and Middle East,22,3,2021,0,Pseudomonas aeruginosa,carbapenem,1,3326.089408,509.6896172,4325.081058,2327.097758
+South Asia,22,3,2021,0,Pseudomonas aeruginosa,carbapenem,1,11226.66315,1990.72462,15128.4834,7324.842893
+Sub-Saharan Africa,22,3,2021,0,Pseudomonas aeruginosa,carbapenem,1,5012.713967,1124.337253,7216.414983,2809.012951
+Global,22,3,2021,0,Klebsiella pneumoniae,carbapenem,1,45588.86547,5048.801882,55484.51716,35693.21379
+"Southeast Asia, East Asia, and Oceania",22,3,2021,0,Klebsiella pneumoniae,carbapenem,1,8295.573221,930.5156724,10119.38394,6471.762503
+"Central Europe, Eastern Europe, and Central Asia",22,3,2021,0,Klebsiella pneumoniae,carbapenem,1,2695.118068,331.8984975,3345.639123,2044.597013
+High-income,22,3,2021,0,Klebsiella pneumoniae,carbapenem,1,1984.408484,228.9583146,2433.166781,1535.650188
+Latin America and Caribbean,22,3,2021,0,Klebsiella pneumoniae,carbapenem,1,3801.973975,414.0459061,4613.503951,2990.443999
+North Africa and Middle East,22,3,2021,0,Klebsiella pneumoniae,carbapenem,1,2237.412877,282.4934581,2791.100055,1683.725699
+South Asia,22,3,2021,0,Klebsiella pneumoniae,carbapenem,1,21385.63794,2386.440613,26063.06154,16708.21433
+Sub-Saharan Africa,22,3,2021,0,Klebsiella pneumoniae,carbapenem,1,5182.010511,740.5642178,6633.516378,3730.504644
+Global,22,3,2021,0,Enterobacter spp.,carbapenem,1,9775.925814,1088.733987,11909.84443,7642.0072
+"Southeast Asia, East Asia, and Oceania",22,3,2021,0,Enterobacter spp.,carbapenem,1,3165.253669,332.5535322,3817.058592,2513.448746
+"Central Europe, Eastern Europe, and Central Asia",22,3,2021,0,Enterobacter spp.,carbapenem,1,444.3361649,60.14461288,562.2196061,326.4527236
+High-income,22,3,2021,0,Enterobacter spp.,carbapenem,1,755.6498161,76.30146432,905.2006861,606.098946
+Latin America and Caribbean,22,3,2021,0,Enterobacter spp.,carbapenem,1,553.6726012,58.05183982,667.4542072,439.8909951
+North Africa and Middle East,22,3,2021,0,Enterobacter spp.,carbapenem,1,369.357275,47.30377436,462.0726727,276.6418773
+South Asia,22,3,2021,0,Enterobacter spp.,carbapenem,1,3025.987234,354.1056329,3720.034274,2331.940193
+Sub-Saharan Africa,22,3,2021,0,Enterobacter spp.,carbapenem,1,1459.550437,250.8527736,1951.221874,967.8790013
+Global,22,3,2021,0,Serratia spp.,carbapenem,1,5164.127699,587.1548,6314.951107,4013.304291
+"Southeast Asia, East Asia, and Oceania",22,3,2021,0,Serratia spp.,carbapenem,1,1083.441399,123.9772527,1326.436814,840.4459832
+"Central Europe, Eastern Europe, and Central Asia",22,3,2021,0,Serratia spp.,carbapenem,1,238.8026936,26.05570766,289.8718806,187.7335066
+High-income,22,3,2021,0,Serratia spp.,carbapenem,1,350.6169287,40.43988363,429.8791006,271.3547568
+Latin America and Caribbean,22,3,2021,0,Serratia spp.,carbapenem,1,423.1660138,45.08774883,511.5380015,334.7940261
+North Africa and Middle East,22,3,2021,0,Serratia spp.,carbapenem,1,282.7446524,31.89678761,345.2623561,220.2269487
+South Asia,22,3,2021,0,Serratia spp.,carbapenem,1,1477.812444,186.3971216,1843.150803,1112.474086
+Sub-Saharan Africa,22,3,2021,0,Serratia spp.,carbapenem,1,1306.87977,183.8616835,1667.24867,946.5108707
+Global,22,3,2021,0,Acinetobacter baumannii,carbapenem,1,78143.10219,8050.862152,93922.79201,62363.41237
+"Southeast Asia, East Asia, and Oceania",22,3,2021,0,Acinetobacter baumannii,carbapenem,1,21798.82973,2394.358273,26491.77194,17105.88751
+"Central Europe, Eastern Europe, and Central Asia",22,3,2021,0,Acinetobacter baumannii,carbapenem,1,3582.374195,369.0299377,4305.672873,2859.075518
+High-income,22,3,2021,0,Acinetobacter baumannii,carbapenem,1,3873.294766,390.7182493,4639.102535,3107.486998
+Latin America and Caribbean,22,3,2021,0,Acinetobacter baumannii,carbapenem,1,5971.097304,573.6157817,7095.384236,4846.810372
+North Africa and Middle East,22,3,2021,0,Acinetobacter baumannii,carbapenem,1,4896.594246,504.9604934,5886.316814,3906.871679
+South Asia,22,3,2021,0,Acinetobacter baumannii,carbapenem,1,28321.91612,2932.71765,34070.04272,22573.78953
+Sub-Saharan Africa,22,3,2021,0,Acinetobacter baumannii,carbapenem,1,9685.706213,1545.38001,12714.65103,6656.761393
+Global,22,3,2021,0,Citrobacter spp.,carbapenem,1,3653.496062,752.3844406,5128.169565,2178.822558
+"Southeast Asia, East Asia, and Oceania",22,3,2021,0,Citrobacter spp.,carbapenem,1,709.1987857,136.6845755,977.1005536,441.2970177
+"Central Europe, Eastern Europe, and Central Asia",22,3,2021,0,Citrobacter spp.,carbapenem,1,137.8622212,31.89333571,200.3731592,75.35128325
+High-income,22,3,2021,0,Citrobacter spp.,carbapenem,1,231.6666675,45.62771738,321.0969935,142.2363414
+Latin America and Caribbean,22,3,2021,0,Citrobacter spp.,carbapenem,1,157.2040068,31.01717362,217.9976671,96.41034648
+North Africa and Middle East,22,3,2021,0,Citrobacter spp.,carbapenem,1,113.6648856,27.43412643,167.4357734,59.89399781
+South Asia,22,3,2021,0,Citrobacter spp.,carbapenem,1,1865.48597,391.184484,2632.207559,1098.764382
+Sub-Saharan Africa,22,3,2021,0,Citrobacter spp.,carbapenem,1,437.0497076,117.1976488,666.7570992,207.3423159
